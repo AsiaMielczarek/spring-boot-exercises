@@ -1,0 +1,4 @@
+HelloController:
+ hello: Hi!
+ msg: Message from yaml
+ foo: Fooo
